@@ -1,1 +1,2 @@
-"Hi this is file3"
+this is first line in file3
+"second line"
